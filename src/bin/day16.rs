@@ -45,7 +45,7 @@ mod tests {
     use super::*;
 
     #[test]
-    fn test_day15_part1() {
+    fn test_day16_part1() {
         assert_eq!(process("10000", 20), "01100");
     }
 }
