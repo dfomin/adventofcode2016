@@ -148,10 +148,10 @@ mod tests {
     ";
 
     #[test]
-    fn test_day12_part1() {
+    fn test_day23_part1() {
         assert_eq!(part1(INPUT), 3);
     }
 
     #[test]
-    fn test_day12_part2() {}
+    fn test_day23_part2() {}
 }
